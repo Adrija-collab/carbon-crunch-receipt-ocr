@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "URBAN IDEA SON BHD (417940-M),",
+    "confidence": 0.812,
+    "flag": false
+  },
+  "date": {
+    "value": "14/02/2018",
+    "confidence": 0.856,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "11.90",
+    "confidence": 0.844,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005745244.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 1.08,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.755,
+    "line_count": 24,
+    "word_count": 92
+  }
+}

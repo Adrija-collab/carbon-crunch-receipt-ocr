@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "CROSS CHANNEL NETWORK SDN. BHD. ieee",
+    "confidence": 0.83,
+    "flag": false
+  },
+  "date": {
+    "value": "31/12/2017",
+    "confidence": 0.706,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "7.95",
+    "confidence": 0.642,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005230657.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.552,
+    "line_count": 28,
+    "word_count": 145
+  }
+}

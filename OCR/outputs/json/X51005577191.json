@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "FY EAGLE ENTERPRISE",
+    "confidence": 0.815,
+    "flag": false
+  },
+  "date": {
+    "value": "07/12/2017",
+    "confidence": 0.841,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "190.40",
+    "confidence": 0.692,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005577191.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -0.77,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.577,
+    "line_count": 29,
+    "word_count": 84
+  }
+}

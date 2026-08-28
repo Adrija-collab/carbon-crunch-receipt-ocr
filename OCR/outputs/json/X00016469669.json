@@ -1,0 +1,34 @@
+{
+  "store_name": {
+    "value": "ABC HO TRADING",
+    "confidence": 0.91,
+    "flag": false
+  },
+  "date": {
+    "value": "09/01/2019",
+    "confidence": 0.934,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "Plastic 2 15.50",
+      "price": "34.00",
+      "confidence": 0.733,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": "31.00",
+    "confidence": 0.75,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X00016469669.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.724,
+    "line_count": 19,
+    "word_count": 61
+  }
+}

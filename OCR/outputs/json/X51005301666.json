@@ -1,0 +1,64 @@
+{
+  "store_name": {
+    "value": "LIGHTROOM GALLERY SDN BHD",
+    "confidence": 0.897,
+    "flag": false
+  },
+  "date": {
+    "value": "20/11/2017",
+    "confidence": 0.941,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "RM 45.29 UNI ( 5,43)=RN",
+      "price": "90.57",
+      "confidence": 0.431,
+      "flag": true
+    },
+    {
+      "name": "1 RM 155,66 UNI ( 9.54)-RM",
+      "price": "155.60",
+      "confidence": 0.458,
+      "flag": true
+    },
+    {
+      "name": "Vo # Ft 16.99 NE CoD =H",
+      "price": "16.79",
+      "confidence": 0.39,
+      "flag": true
+    },
+    {
+      "name": "TOT’",
+      "price": "278.80",
+      "confidence": 0.582,
+      "flag": true
+    },
+    {
+      "name": "CASA",
+      "price": "278.80",
+      "confidence": 0.514,
+      "flag": true
+    },
+    {
+      "name": "Sse ne",
+      "price": "5.78",
+      "confidence": 0.419,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "278.80",
+    "confidence": 0.156,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005301666.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.635,
+    "line_count": 46,
+    "word_count": 195
+  }
+}

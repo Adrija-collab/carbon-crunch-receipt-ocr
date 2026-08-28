@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "= momiantoys_ind Cinst",
+    "confidence": 0.599,
+    "flag": true
+  },
+  "date": {
+    "value": "26/01/2015",
+    "confidence": 0.768,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "175.00",
+    "confidence": 0.716,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "6.JPG",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.74,
+    "line_count": 23,
+    "word_count": 92
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Guest Check",
+    "confidence": 0.447,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "593.10",
+    "confidence": 0.667,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005442361.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -2.77,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.383,
+    "line_count": 14,
+    "word_count": 35
+  }
+}

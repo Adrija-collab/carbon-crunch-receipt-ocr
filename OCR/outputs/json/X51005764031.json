@@ -1,0 +1,58 @@
+{
+  "store_name": {
+    "value": "SUPER SEVEN CASH & CARRY SON 3H",
+    "confidence": 0.58,
+    "flag": true
+  },
+  "date": {
+    "value": "1-2-2018",
+    "confidence": 0.512,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "Laby OHOTCE TARTAR SAUC",
+      "price": "635.50",
+      "confidence": 0.408,
+      "flag": true
+    },
+    {
+      "name": "SAVUR RA1.00",
+      "price": "1.00",
+      "confidence": 0.359,
+      "flag": true
+    },
+    {
+      "name": "SAYUR RHT.00",
+      "price": "61.00",
+      "confidence": 0.529,
+      "flag": true
+    },
+    {
+      "name": "OBIS WERAH",
+      "price": "61.60",
+      "confidence": 0.553,
+      "flag": true
+    },
+    {
+      "name": "sR 6X)",
+      "price": "3492.01",
+      "confidence": 0.396,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "10.00",
+    "confidence": 0.353,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005764031.jpg",
+    "preprocessing": "raw_deskew",
+    "deskew_angle_deg": 1.44,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.562,
+    "line_count": 40,
+    "word_count": 156
+  }
+}

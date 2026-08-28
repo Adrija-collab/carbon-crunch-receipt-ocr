@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "MARKET",
+    "confidence": 0.688,
+    "flag": true
+  },
+  "date": {
+    "value": "25/01/2018",
+    "confidence": 0.814,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "9.00",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005361895.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.726,
+    "line_count": 27,
+    "word_count": 91
+  }
+}

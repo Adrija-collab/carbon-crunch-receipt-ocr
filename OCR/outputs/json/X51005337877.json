@@ -1,0 +1,46 @@
+{
+  "store_name": {
+    "value": "UROKO JAPANESE CUISINE SDN BHD",
+    "confidence": 0.915,
+    "flag": false
+  },
+  "date": {
+    "value": "20/03/2018",
+    "confidence": 0.97,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "UDON @",
+      "price": "24.00",
+      "confidence": 0.756,
+      "flag": false
+    },
+    {
+      "name": "4 cat",
+      "price": "46.00",
+      "confidence": 0.502,
+      "flag": true
+    },
+    {
+      "name": "jervice Chg 10.00%",
+      "price": "4.00",
+      "confidence": 0.754,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": "53.00",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005337877.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.824,
+    "line_count": 27,
+    "word_count": 106
+  }
+}

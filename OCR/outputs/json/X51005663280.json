@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "T.A.S Leisure Sdn Bhd (256864-P)",
+    "confidence": 0.861,
+    "flag": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "40% Sry Chg",
+      "price": "8.78",
+      "confidence": 0.71,
+      "flag": false
+    },
+    {
+      "name": "BST 66%",
+      "price": "5.81",
+      "confidence": 0.634,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "102.39",
+    "confidence": 0.647,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005663280.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -1.49,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.755,
+    "line_count": 38,
+    "word_count": 139
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "Yam Fresh",
+    "confidence": 0.626,
+    "flag": true
+  },
+  "date": {
+    "value": "2018-03-18",
+    "confidence": 0.744,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "AQ? BlackSugar Ice 1",
+      "price": "7.50",
+      "confidence": 0.612,
+      "flag": true
+    },
+    {
+      "name": "sHerb.J",
+      "price": "3.00",
+      "confidence": 0.446,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "29.30",
+    "confidence": 0.85,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005719904.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.695,
+    "line_count": 29,
+    "word_count": 95
+  }
+}

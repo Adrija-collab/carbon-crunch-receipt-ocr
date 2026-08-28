@@ -1,0 +1,34 @@
+{
+  "store_name": {
+    "value": "RESTORAN IBRAHIM MAJU SB",
+    "confidence": 0.877,
+    "flag": false
+  },
+  "date": {
+    "value": "19/03/2018",
+    "confidence": 0.816,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "fotal",
+      "price": "5.30",
+      "confidence": 0.572,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "5.30",
+    "confidence": 0.84,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005685355.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 0.68,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.713,
+    "line_count": 30,
+    "word_count": 112
+  }
+}

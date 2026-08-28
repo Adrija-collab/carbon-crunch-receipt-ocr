@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "© W KHOO HARDWARE SDN BHD",
+    "confidence": 0.842,
+    "flag": false
+  },
+  "date": {
+    "value": "01-03-18",
+    "confidence": 0.942,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "21.20",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005365179.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -2.12,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.714,
+    "line_count": 26,
+    "word_count": 119
+  }
+}

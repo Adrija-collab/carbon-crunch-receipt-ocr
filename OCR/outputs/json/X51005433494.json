@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "- AH co. 0 (156)",
+    "confidence": 0.69,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "aubtu)",
+      "price": "5.00",
+      "confidence": 0.388,
+      "flag": true
+    },
+    {
+      "name": "Thon Cant 3 chars at",
+      "price": "2.00",
+      "confidence": 0.515,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "2.00",
+    "confidence": 0.127,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005433494.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -1.58,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.365,
+    "line_count": 26,
+    "word_count": 96
+  }
+}

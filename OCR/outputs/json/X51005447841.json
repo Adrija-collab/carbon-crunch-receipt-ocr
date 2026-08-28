@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "BORONG PINTAR SDN BHD",
+    "confidence": 0.657,
+    "flag": true
+  },
+  "date": {
+    "value": "09/03/2018",
+    "confidence": 0.818,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "10.40",
+    "confidence": 0.486,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005447841.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.848,
+    "line_count": 31,
+    "word_count": 120
+  }
+}

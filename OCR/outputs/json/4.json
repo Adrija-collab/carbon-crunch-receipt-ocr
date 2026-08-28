@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Walmart s'<",
+    "confidence": 0.814,
+    "flag": false
+  },
+  "date": {
+    "value": "12/08/15",
+    "confidence": 0.76,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "7.43",
+    "confidence": 0.618,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "4.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.671,
+    "line_count": 26,
+    "word_count": 100
+  }
+}

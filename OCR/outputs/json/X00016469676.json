@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "tan chay yee",
+    "confidence": 0.632,
+    "flag": true
+  },
+  "date": {
+    "value": "23-01-2019",
+    "confidence": 0.821,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "20.00",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X00016469676.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.74,
+    "line_count": 19,
+    "word_count": 75
+  }
+}

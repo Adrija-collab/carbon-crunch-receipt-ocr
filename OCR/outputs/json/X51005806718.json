@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "HUGO TRADING SDN BHD _Tota",
+    "confidence": 0.896,
+    "flag": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "' SST @8% 4",
+      "price": "1.06",
+      "confidence": 0.538,
+      "flag": true
+    },
+    {
+      "name": "cman aaa",
+      "price": "40.60",
+      "confidence": 0.4,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "51.00",
+    "confidence": 0.36,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005806718.jpg",
+    "preprocessing": "raw_deskew",
+    "deskew_angle_deg": 3.85,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.591,
+    "line_count": 33,
+    "word_count": 123
+  }
+}

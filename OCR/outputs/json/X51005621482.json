@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "PREMIO STATIONERY SDN BHD",
+    "confidence": 0.916,
+    "flag": false
+  },
+  "date": {
+    "value": "20/03/2018",
+    "confidence": 0.962,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "13.40",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005621482.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.632,
+    "line_count": 34,
+    "word_count": 179
+  }
+}

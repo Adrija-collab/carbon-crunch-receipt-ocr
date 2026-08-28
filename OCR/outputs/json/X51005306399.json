@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "Shell ISNT PETRO TRADING",
+    "confidence": 0.852,
+    "flag": false
+  },
+  "date": {
+    "value": "18/03/18",
+    "confidence": 0.791,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "Visa RH",
+      "price": "86.00",
+      "confidence": 0.498,
+      "flag": true
+    },
+    {
+      "name": "6.00% CST A RN",
+      "price": "4.87",
+      "confidence": 0.73,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": "86.00",
+    "confidence": 0.804,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005306399.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.782,
+    "line_count": 25,
+    "word_count": 97
+  }
+}

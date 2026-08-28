@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "LOT PT 5121, Per. Klang, Sek. 27",
+    "confidence": 0.616,
+    "flag": true
+  },
+  "date": {
+    "value": "23/03/17",
+    "confidence": 0.792,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "30.00",
+    "confidence": 0.941,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005587261.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 2.34,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.84,
+    "line_count": 28,
+    "word_count": 120
+  }
+}

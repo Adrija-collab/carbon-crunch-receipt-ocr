@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "! i RESTORAN nt Sie",
+    "confidence": 0.679,
+    "flag": true
+  },
+  "date": {
+    "value": "05-03-2018",
+    "confidence": 0.869,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "6.00",
+    "confidence": 0.867,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005711451.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.695,
+    "line_count": 20,
+    "word_count": 77
+  }
+}

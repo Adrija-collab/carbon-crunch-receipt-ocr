@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "SECURE PARKING =",
+    "confidence": 0.594,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "0.06",
+    "confidence": 0.383,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005288570.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 3.35,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.805,
+    "line_count": 28,
+    "word_count": 64
+  }
+}

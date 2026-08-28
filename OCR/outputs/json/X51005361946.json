@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "tte",
+    "confidence": 0.403,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "37.10",
+    "confidence": 0.278,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005361946.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 11,
+    "ocr_confidence": 0.357,
+    "line_count": 51,
+    "word_count": 73
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "$% SPEED MAPT S/B (S19537-X)",
+    "confidence": 0.475,
+    "flag": true
+  },
+  "date": {
+    "value": "26-03-18",
+    "confidence": 0.437,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "10.60",
+    "confidence": 0.688,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005715455.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.517,
+    "line_count": 18,
+    "word_count": 78
+  }
+}

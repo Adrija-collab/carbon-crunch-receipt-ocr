@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "MR. D.I.Y. (M) SDN BHD",
+    "confidence": 0.871,
+    "flag": false
+  },
+  "date": {
+    "value": "28-03-18",
+    "confidence": 0.684,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "38.80",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005749912.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.708,
+    "line_count": 29,
+    "word_count": 118
+  }
+}

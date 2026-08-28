@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "99 SPEED KART $/B (519537-X)",
+    "confidence": 0.586,
+    "flag": true
+  },
+  "date": {
+    "value": "07-02-18",
+    "confidence": 0.736,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "0.00",
+    "confidence": 0.367,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005745214.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.685,
+    "line_count": 25,
+    "word_count": 106
+  }
+}

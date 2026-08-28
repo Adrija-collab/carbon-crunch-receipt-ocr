@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "SHEET FOREST CAFE",
+    "confidence": 0.869,
+    "flag": false
+  },
+  "date": {
+    "value": "14-02-2018",
+    "confidence": 0.836,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "28.58",
+    "confidence": 0.716,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005663293.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -0.45,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.66,
+    "line_count": 31,
+    "word_count": 105
+  }
+}

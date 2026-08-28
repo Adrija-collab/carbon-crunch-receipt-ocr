@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "23, Jin Burung Jentayu, Tmn Bukit",
+    "confidence": 0.593,
+    "flag": true
+  },
+  "date": {
+    "value": "02/03/18",
+    "confidence": 0.828,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "7.00",
+    "confidence": 0.369,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005685357.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.809,
+    "line_count": 29,
+    "word_count": 116
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "RESTAURANT JIAWE!",
+    "confidence": 0.783,
+    "flag": false
+  },
+  "date": {
+    "value": "9/3/2018",
+    "confidence": 0.862,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "65.20",
+    "confidence": 0.779,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005447839.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.766,
+    "line_count": 28,
+    "word_count": 108
+  }
+}

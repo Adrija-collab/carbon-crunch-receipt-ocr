@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Bs LOT Ri, KWS REHAT & RAWAT PAGOH ARAN UTARA,",
+    "confidence": 0.504,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005442378.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.407,
+    "line_count": 19,
+    "word_count": 83
+  }
+}

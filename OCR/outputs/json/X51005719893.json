@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "No.J-G-02, Soho KI, Solaris Mont Kiera, 50",
+    "confidence": 0.621,
+    "flag": true
+  },
+  "date": {
+    "value": "2018-01-05",
+    "confidence": 0.714,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "71.00",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005719893.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.834,
+    "line_count": 23,
+    "word_count": 81
+  }
+}

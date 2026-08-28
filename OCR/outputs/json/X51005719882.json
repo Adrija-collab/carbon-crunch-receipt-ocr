@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "! 99 SPEED HART S/B (519537-x)",
+    "confidence": 0.51,
+    "flag": true
+  },
+  "date": {
+    "value": "17-02-18",
+    "confidence": 0.749,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "213.00",
+    "confidence": 0.478,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005719882.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.739,
+    "line_count": 18,
+    "word_count": 78
+  }
+}

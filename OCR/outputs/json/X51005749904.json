@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "F SWCENTERPRISE SDNBHD”",
+    "confidence": 0.643,
+    "flag": true
+  },
+  "date": {
+    "value": "06/03/2018",
+    "confidence": 0.62,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "1.00",
+    "confidence": 0.487,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005749904.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.565,
+    "line_count": 26,
+    "word_count": 103
+  }
+}

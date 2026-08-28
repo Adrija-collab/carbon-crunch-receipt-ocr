@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "HOME MASTER HARDWARE &",
+    "confidence": 0.916,
+    "flag": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "21.00",
+    "confidence": 0.487,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005301659.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 1.73,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.669,
+    "line_count": 27,
+    "word_count": 99
+  }
+}

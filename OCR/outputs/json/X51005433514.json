@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "INTERNATIONAL SON BHO",
+    "confidence": 0.518,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005433514.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 3.7,
+    "ocr_psm": 11,
+    "ocr_confidence": 0.234,
+    "line_count": 33,
+    "word_count": 64
+  }
+}

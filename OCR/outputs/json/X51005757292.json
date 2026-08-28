@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "MR. D.1.Y. (M) SON BHO",
+    "confidence": 0.569,
+    "flag": true
+  },
+  "date": {
+    "value": "18-03-18",
+    "confidence": 0.638,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "7.60",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005757292.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 2.15,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.752,
+    "line_count": 23,
+    "word_count": 98
+  }
+}

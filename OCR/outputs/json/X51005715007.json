@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Lot No, 13-012, Level 3, ‘",
+    "confidence": 0.553,
+    "flag": true
+  },
+  "date": {
+    "value": "25-03-18",
+    "confidence": 0.928,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "18.70",
+    "confidence": 0.828,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005715007.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.608,
+    "line_count": 28,
+    "word_count": 115
+  }
+}

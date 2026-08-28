@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "BENS INDEPENDENT GROCER SDN. BHD",
+    "confidence": 0.919,
+    "flag": false
+  },
+  "date": {
+    "value": "12/03/18",
+    "confidence": 0.779,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "77.20",
+    "confidence": 0.875,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005444033.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.821,
+    "line_count": 29,
+    "word_count": 114
+  }
+}

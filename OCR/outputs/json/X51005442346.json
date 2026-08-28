@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "PERNIAGAAN ZHENG HU!",
+    "confidence": 0.591,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "8.00",
+    "confidence": 0.719,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005442346.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.341,
+    "line_count": 30,
+    "word_count": 83
+  }
+}

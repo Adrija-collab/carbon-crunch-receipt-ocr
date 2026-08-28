@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "WAHIN HARDWARE SON BHD",
+    "confidence": 0.81,
+    "flag": false
+  },
+  "date": {
+    "value": "04/12/17",
+    "confidence": 0.865,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "3.00",
+    "confidence": 0.661,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005663272.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -2.23,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.682,
+    "line_count": 33,
+    "word_count": 115
+  }
+}

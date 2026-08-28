@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "YONGFATT ENTERPRISE",
+    "confidence": 0.908,
+    "flag": false
+  },
+  "date": {
+    "value": "25/12/2018",
+    "confidence": 0.814,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "80.91",
+    "confidence": 0.84,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X00016469622.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 1.45,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.715,
+    "line_count": 28,
+    "word_count": 108
+  }
+}

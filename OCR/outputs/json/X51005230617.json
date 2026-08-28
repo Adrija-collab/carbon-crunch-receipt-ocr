@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "Gerbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.89,
+    "flag": false
+  },
+  "date": {
+    "value": "16/01/2018",
+    "confidence": 0.807,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "\"2 ChicMoMuffin",
+      "price": "11.00",
+      "confidence": 0.61,
+      "flag": true
+    },
+    {
+      "name": "1M Porridge",
+      "price": "5.60",
+      "confidence": 0.628,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "16.60",
+    "confidence": 0.84,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005230617.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.739,
+    "line_count": 35,
+    "word_count": 125
+  }
+}

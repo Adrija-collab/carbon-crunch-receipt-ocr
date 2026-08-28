@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "URBAN IDEA SDN BHD (417940-M),",
+    "confidence": 0.883,
+    "flag": false
+  },
+  "date": {
+    "value": "27/02/2018",
+    "confidence": 0.856,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "1 Bag Fee",
+      "price": "0.20",
+      "confidence": 0.717,
+      "flag": false
+    },
+    {
+      "name": "1 (MY) EDV Meal",
+      "price": "11.90",
+      "confidence": 0.595,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "30.00",
+    "confidence": 0.57,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005745249.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.751,
+    "line_count": 29,
+    "word_count": 116
+  }
+}

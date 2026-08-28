@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "TKANO HANDEL SON BHD.",
+    "confidence": 0.73,
+    "flag": false
+  },
+  "date": {
+    "value": "23/12/17",
+    "confidence": 0.938,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "73.30",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005663278.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -4.13,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.622,
+    "line_count": 27,
+    "word_count": 94
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "store_name": {
+    "value": "Dollar Tree Stores, Inc",
+    "confidence": 0.877,
+    "flag": false
+  },
+  "date": {
+    "value": "2/20/14",
+    "confidence": 0.662,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "Where Everything's",
+      "price": "1.00",
+      "confidence": 0.73,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "21.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.689,
+    "line_count": 7,
+    "word_count": 24
+  }
+}

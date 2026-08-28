@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "SOON HUAT MACHINERY ENTERPRISE",
+    "confidence": 0.909,
+    "flag": false
+  },
+  "date": {
+    "value": "11/01/2019",
+    "confidence": 0.916,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "“Towiay = =9 a",
+      "price": "327.00",
+      "confidence": 0.385,
+      "flag": true
+    },
+    {
+      "name": "TotalSales ;",
+      "price": "327.00",
+      "confidence": 0.682,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "327.00",
+    "confidence": 0.57,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X00016469672.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 1.64,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.727,
+    "line_count": 40,
+    "word_count": 149
+  }
+}

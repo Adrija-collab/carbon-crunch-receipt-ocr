@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "LOT Pal, 2811, J",
+    "confidence": 0.559,
+    "flag": true
+  },
+  "date": {
+    "value": "24-01-18",
+    "confidence": 0.654,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "2.50",
+    "confidence": 0.448,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005361950.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 2.49,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.671,
+    "line_count": 19,
+    "word_count": 80
+  }
+}

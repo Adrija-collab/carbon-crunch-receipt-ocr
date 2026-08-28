@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "MIZU MENTAT SON. BHD. (1248446-V)",
+    "confidence": 0.805,
+    "flag": false
+  },
+  "date": {
+    "value": "31-03-2018",
+    "confidence": 0.769,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "6ST Payable",
+      "price": "3.71",
+      "confidence": 0.645,
+      "flag": true
+    },
+    {
+      "name": "VISA",
+      "price": "5.55",
+      "confidence": 0.577,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "5.62",
+    "confidence": 0.204,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005711456.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.667,
+    "line_count": 38,
+    "word_count": 137
+  }
+}

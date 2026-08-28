@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "SON Bip",
+    "confidence": 0.509,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005442379.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -8.36,
+    "ocr_psm": 11,
+    "ocr_confidence": 0.246,
+    "line_count": 30,
+    "word_count": 36
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.626,
+    "flag": true
+  },
+  "date": {
+    "value": "13/01/2018",
+    "confidence": 0.871,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "6.36",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005676545.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.753,
+    "line_count": 31,
+    "word_count": 113
+  }
+}

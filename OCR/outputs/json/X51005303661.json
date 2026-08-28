@@ -1,0 +1,52 @@
+{
+  "store_name": {
+    "value": "LIGHTROOM GALLERY SDN BHD i",
+    "confidence": 0.874,
+    "flag": false
+  },
+  "date": {
+    "value": "20/12/2017",
+    "confidence": 0.958,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "Toe RM 2.83, UNT ( O.17)=RM",
+      "price": "2.88",
+      "confidence": 0.466,
+      "flag": true
+    },
+    {
+      "name": "ye RM 33,02 UNI ( 3.96)=RM",
+      "price": "66.04",
+      "confidence": 0.466,
+      "flag": true
+    },
+    {
+      "name": "TORY",
+      "price": "73.00",
+      "confidence": 0.44,
+      "flag": true
+    },
+    {
+      "name": "CAL",
+      "price": "73.00",
+      "confidence": 0.475,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "0.00",
+    "confidence": 0.23,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005303661.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 3.58,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.674,
+    "line_count": 40,
+    "word_count": 176
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "HR. D.I.Y. (HM) SDN BHD -",
+    "confidence": 0.744,
+    "flag": false
+  },
+  "date": {
+    "value": "25-03-18",
+    "confidence": 0.709,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "50.80",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005757324.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.828,
+    "line_count": 26,
+    "word_count": 105
+  }
+}

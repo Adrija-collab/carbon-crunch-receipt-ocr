@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "ae WHOLE",
+    "confidence": 0.468,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "3.99",
+    "confidence": 0.383,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "11.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.668,
+    "line_count": 26,
+    "word_count": 126
+  }
+}

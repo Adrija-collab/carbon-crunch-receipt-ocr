@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "WR. D.I.Y. (M) SON BHD",
+    "confidence": 0.866,
+    "flag": false
+  },
+  "date": {
+    "value": "17-03-18",
+    "confidence": 0.719,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "42.90",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005757290.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.817,
+    "line_count": 30,
+    "word_count": 114
+  }
+}

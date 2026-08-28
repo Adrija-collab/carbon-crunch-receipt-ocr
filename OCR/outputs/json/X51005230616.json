@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "Gerbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.889,
+    "flag": false
+  },
+  "date": {
+    "value": "18/01/2016",
+    "confidence": 0.814,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "1M GriIChicBor",
+      "price": "12.50",
+      "confidence": 0.52,
+      "flag": true
+    },
+    {
+      "name": "1 Smal] Cone",
+      "price": "1.00",
+      "confidence": 0.562,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "38.90",
+    "confidence": 0.654,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005230616.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.753,
+    "line_count": 36,
+    "word_count": 132
+  }
+}

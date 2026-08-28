@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "Segi Cash & i.",
+    "confidence": 0.562,
+    "flag": true
+  },
+  "date": {
+    "value": "06 Jan 2018",
+    "confidence": 0.866,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "11,50 (Discs 1.60)",
+      "price": "9.90",
+      "confidence": 0.673,
+      "flag": true
+    },
+    {
+      "name": "VISA xxwexnexnern7118s",
+      "price": "674.00",
+      "confidence": 0.519,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "674.00",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005763999.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.638,
+    "line_count": 40,
+    "word_count": 160
+  }
+}

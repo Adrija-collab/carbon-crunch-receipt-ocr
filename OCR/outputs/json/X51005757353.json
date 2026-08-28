@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "KAWASAN PERINDUSTRIAN BALAKONG,",
+    "confidence": 0.583,
+    "flag": true
+  },
+  "date": {
+    "value": "24-03-18",
+    "confidence": 0.687,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "12.90",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005757353.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 1.28,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.834,
+    "line_count": 29,
+    "word_count": 112
+  }
+}

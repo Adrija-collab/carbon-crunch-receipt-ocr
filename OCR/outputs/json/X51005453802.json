@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": ": UAN HING STATIONERY SON BHD",
+    "confidence": 0.756,
+    "flag": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "189.00",
+    "confidence": 0.62,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005453802.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -7.93,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.554,
+    "line_count": 25,
+    "word_count": 112
+  }
+}

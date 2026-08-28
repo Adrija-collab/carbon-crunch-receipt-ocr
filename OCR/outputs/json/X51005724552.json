@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "KEDAI PAPAN YEW CHUAN",
+    "confidence": 0.618,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "68.90",
+    "confidence": 0.702,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005724552.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.753,
+    "line_count": 35,
+    "word_count": 127
+  }
+}

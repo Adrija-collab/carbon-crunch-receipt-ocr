@@ -1,0 +1,34 @@
+{
+  "store_name": {
+    "value": "Gerbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.916,
+    "flag": false
+  },
+  "date": {
+    "value": "18/03/2018",
+    "confidence": 0.855,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "1 L McChicken",
+      "price": "11.10",
+      "confidence": 0.61,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "13.10",
+    "confidence": 0.886,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005712017.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.823,
+    "line_count": 26,
+    "word_count": 94
+  }
+}

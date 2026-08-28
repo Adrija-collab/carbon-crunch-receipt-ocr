@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "ae TANAN BERKELEY |",
+    "confidence": 0.432,
+    "flag": true
+  },
+  "date": {
+    "value": "03-02-18",
+    "confidence": 0.536,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "3.70",
+    "confidence": 0.665,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005719862.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.404,
+    "line_count": 16,
+    "word_count": 78
+  }
+}

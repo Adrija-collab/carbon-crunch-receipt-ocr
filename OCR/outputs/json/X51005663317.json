@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "LIM SENG THO HARDWARE TRADING",
+    "confidence": 0.87,
+    "flag": false
+  },
+  "date": {
+    "value": "29/12/2017",
+    "confidence": 0.853,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "3.00",
+    "confidence": 0.592,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005663317.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.707,
+    "line_count": 30,
+    "word_count": 110
+  }
+}

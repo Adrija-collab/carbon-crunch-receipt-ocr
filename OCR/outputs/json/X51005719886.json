@@ -1,0 +1,58 @@
+{
+  "store_name": {
+    "value": "SUNFISH",
+    "confidence": 0.643,
+    "flag": true
+  },
+  "date": {
+    "value": "05/01/9018",
+    "confidence": 0.608,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "SALTED F RICE",
+      "price": "8.50",
+      "confidence": 0.719,
+      "flag": false
+    },
+    {
+      "name": "@FRIED EGG",
+      "price": "1.80",
+      "confidence": 0.698,
+      "flag": true
+    },
+    {
+      "name": "NAST. LEMAK DRUMS Li",
+      "price": "9.80",
+      "confidence": 0.546,
+      "flag": true
+    },
+    {
+      "name": "SOYA CINCAU",
+      "price": "4.30",
+      "confidence": 0.539,
+      "flag": true
+    },
+    {
+      "name": "LARGE / ICE TEA",
+      "price": "4.30",
+      "confidence": 0.761,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": "4.30",
+    "confidence": 0.233,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005719886.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.739,
+    "line_count": 18,
+    "word_count": 59
+  }
+}

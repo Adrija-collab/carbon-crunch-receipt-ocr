@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Thornton, CO 80023 RY :",
+    "confidence": 0.643,
+    "flag": true
+  },
+  "date": {
+    "value": "1/20/20",
+    "confidence": 0.452,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "11.00",
+    "confidence": 0.612,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "8.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.549,
+    "line_count": 34,
+    "word_count": 163
+  }
+}

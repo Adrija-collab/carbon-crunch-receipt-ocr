@@ -1,0 +1,46 @@
+{
+  "store_name": {
+    "value": "Y-CHOR FRA",
+    "confidence": 0.4,
+    "flag": true
+  },
+  "date": {
+    "value": "28/02/2018",
+    "confidence": 0.725,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "1 com004146855,",
+      "price": "18.90",
+      "confidence": 0.278,
+      "flag": true
+    },
+    {
+      "name": "Jotal After aa) Tred st",
+      "price": "28.95",
+      "confidence": 0.495,
+      "flag": true
+    },
+    {
+      "name": "SR OY 83.93",
+      "price": "5.04",
+      "confidence": 0.366,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "98.97",
+    "confidence": 0.901,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005757201.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.488,
+    "line_count": 54,
+    "word_count": 177
+  }
+}

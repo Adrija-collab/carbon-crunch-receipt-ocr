@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "MARKET",
+    "confidence": 0.923,
+    "flag": false
+  },
+  "date": {
+    "value": "9/15/2020",
+    "confidence": 0.85,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "CHEF PLATE MEAL",
+      "price": "10.00",
+      "confidence": 0.771,
+      "flag": false
+    },
+    {
+      "name": "Net Sales",
+      "price": "28.28",
+      "confidence": 0.736,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": "28.28",
+    "confidence": 0.596,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "5.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.822,
+    "line_count": 32,
+    "word_count": 148
+  }
+}

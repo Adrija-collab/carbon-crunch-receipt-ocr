@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "Golden Arches Restaurants Sdn Bhd",
+    "confidence": 0.903,
+    "flag": false
+  },
+  "date": {
+    "value": "11/03/2018",
+    "confidence": 0.713,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "2 ChocTop",
+      "price": "4.00",
+      "confidence": 0.754,
+      "flag": false
+    },
+    {
+      "name": "1 McFlurryOreos",
+      "price": "4.00",
+      "confidence": 0.655,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "8.50",
+    "confidence": 0.923,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005719903.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.857,
+    "line_count": 23,
+    "word_count": 91
+  }
+}

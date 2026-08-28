@@ -1,0 +1,58 @@
+{
+  "store_name": {
+    "value": "HYDIN MART SRI HDA",
+    "confidence": 0.657,
+    "flag": true
+  },
+  "date": {
+    "value": "10/08/2017",
+    "confidence": 0.84,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "ssw 2k 2.60",
+      "price": "5.20",
+      "confidence": 0.356,
+      "flag": true
+    },
+    {
+      "name": "oie) 0.20",
+      "price": "0.80",
+      "confidence": 0.375,
+      "flag": true
+    },
+    {
+      "name": "Seabeo6400%@5 1s 3.00",
+      "price": "8.00",
+      "confidence": 0.382,
+      "flag": true
+    },
+    {
+      "name": "ne S )",
+      "price": "21.40",
+      "confidence": 0.388,
+      "flag": true
+    },
+    {
+      "name": "CHAN",
+      "price": "72.60",
+      "confidence": 0.414,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "2.40",
+    "confidence": 0.415,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005705760.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.519,
+    "line_count": 45,
+    "word_count": 199
+  }
+}

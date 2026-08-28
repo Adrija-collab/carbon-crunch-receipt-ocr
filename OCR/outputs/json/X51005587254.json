@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "TRI SHAAS SON BHD (728515-H) |",
+    "confidence": 0.827,
+    "flag": false
+  },
+  "date": {
+    "value": "13/03/2017",
+    "confidence": 0.838,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "5.00",
+    "confidence": 0.765,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005587254.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -0.71,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.722,
+    "line_count": 35,
+    "word_count": 162
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "EVERGREEN LIGHT SDN BHD",
+    "confidence": 0.921,
+    "flag": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "26.00",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005568892.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.614,
+    "line_count": 28,
+    "word_count": 95
+  }
+}

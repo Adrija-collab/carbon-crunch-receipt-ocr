@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "BILLION SIX ENTERPRISE",
+    "confidence": 0.914,
+    "flag": false
+  },
+  "date": {
+    "value": "22/02/2018",
+    "confidence": 0.936,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "TSR os66408112206",
+      "price": "175.80",
+      "confidence": 0.141,
+      "flag": true
+    },
+    {
+      "name": "Master Card",
+      "price": "63.80",
+      "confidence": 0.742,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": "63.80",
+    "confidence": 0.225,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005745183.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.683,
+    "line_count": 25,
+    "word_count": 110
+  }
+}

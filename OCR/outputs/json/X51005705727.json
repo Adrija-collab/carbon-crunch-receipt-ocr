@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "| KEDAI BUKU NEW ACHEIVERS",
+    "confidence": 0.598,
+    "flag": true
+  },
+  "date": {
+    "value": "28/12/2017",
+    "confidence": 0.805,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "36.00",
+    "confidence": 0.836,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005705727.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.615,
+    "line_count": 34,
+    "word_count": 138
+  }
+}

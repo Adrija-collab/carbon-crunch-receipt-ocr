@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "WR. D.I.Y¥. (KUCHAT) SDN BHD",
+    "confidence": 0.818,
+    "flag": false
+  },
+  "date": {
+    "value": "08-03-17",
+    "confidence": 0.662,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "37.80",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005568911.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.753,
+    "line_count": 34,
+    "word_count": 127
+  }
+}

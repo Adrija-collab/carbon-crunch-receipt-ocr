@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Wangsa Link, Wangsa Maju,",
+    "confidence": 0.614,
+    "flag": true
+  },
+  "date": {
+    "value": "28/02/2018",
+    "confidence": 0.829,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "11.60",
+    "confidence": 0.739,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005806698.jpg",
+    "preprocessing": "raw_deskew",
+    "deskew_angle_deg": -0.59,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.796,
+    "line_count": 28,
+    "word_count": 109
+  }
+}

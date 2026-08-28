@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "‘TEO HENG STATIONERY, 8 BOOKS",
+    "confidence": 0.518,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "27.38",
+    "confidence": 0.872,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005361906.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.455,
+    "line_count": 35,
+    "word_count": 118
+  }
+}

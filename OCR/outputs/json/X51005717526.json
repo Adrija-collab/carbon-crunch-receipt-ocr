@@ -1,0 +1,46 @@
+{
+  "store_name": {
+    "value": "/ Golden Arches Restaurants Sdn Bhd",
+    "confidence": 0.881,
+    "flag": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "1 L McChicken/ f",
+      "price": "17.10",
+      "confidence": 0.515,
+      "flag": true
+    },
+    {
+      "name": "7 AyamGoreng(’ )",
+      "price": "9.90",
+      "confidence": 0.619,
+      "flag": true
+    },
+    {
+      "name": "Ch. st",
+      "price": "21.50",
+      "confidence": 0.487,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "50.00",
+    "confidence": 0.773,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005717526.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.628,
+    "line_count": 30,
+    "word_count": 125
+  }
+}

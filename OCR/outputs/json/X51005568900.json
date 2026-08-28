@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "WR. O.1.Y. SDN BHD",
+    "confidence": 0.802,
+    "flag": false
+  },
+  "date": {
+    "value": "28-12-17",
+    "confidence": 0.645,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "9.90",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005568900.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.741,
+    "line_count": 24,
+    "word_count": 95
+  }
+}

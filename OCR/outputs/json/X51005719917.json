@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "Dommal Food Services Sdn Bhd",
+    "confidence": 0.628,
+    "flag": true
+  },
+  "date": {
+    "value": "26/03/18",
+    "confidence": 0.896,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "1 9eHT (Bg) 2 2P26-R-<",
+      "price": "30.30",
+      "confidence": 0.459,
+      "flag": true
+    },
+    {
+      "name": "1 gymyc (cP) 2+ 2P20-R-i",
+      "price": "30.30",
+      "confidence": 0.49,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "33.00",
+    "confidence": 0.85,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005719917.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.715,
+    "line_count": 42,
+    "word_count": 166
+  }
+}

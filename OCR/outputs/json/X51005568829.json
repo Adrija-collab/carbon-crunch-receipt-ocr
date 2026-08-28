@@ -1,0 +1,52 @@
+{
+  "store_name": {
+    "value": "“tee 2 PUTERI 2/4 i",
+    "confidence": 0.47,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "a 4 84 THAISTYLE 1 15.00",
+      "price": "15.00",
+      "confidence": 0.582,
+      "flag": true
+    },
+    {
+      "name": "5 130 PLAINRICE 4 1.80",
+      "price": "7.20",
+      "confidence": 0.736,
+      "flag": false
+    },
+    {
+      "name": "8 106BCOLD 1 250",
+      "price": "2.50",
+      "confidence": 0.658,
+      "flag": true
+    },
+    {
+      "name": "AVERAGE /PAX(S)",
+      "price": "23.20",
+      "confidence": 0.5,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "98.00",
+    "confidence": 0.337,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005568829.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.508,
+    "line_count": 34,
+    "word_count": 138
+  }
+}

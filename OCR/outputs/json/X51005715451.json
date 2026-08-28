@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.923,
+    "flag": false
+  },
+  "date": {
+    "value": "06/02/18",
+    "confidence": 0.681,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "14.65",
+    "confidence": 0.758,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005715451.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 1.36,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.633,
+    "line_count": 29,
+    "word_count": 114
+  }
+}

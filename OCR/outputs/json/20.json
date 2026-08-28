@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "NOW SHOP ON-LINE AT DOLLARTREE.COM",
+    "confidence": 0.665,
+    "flag": true
+  },
+  "date": {
+    "value": "9/17/22",
+    "confidence": 0.799,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "25.44",
+    "confidence": 0.782,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "20.png",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.778,
+    "line_count": 43,
+    "word_count": 244
+  }
+}

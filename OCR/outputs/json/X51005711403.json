@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.909,
+    "flag": false
+  },
+  "date": {
+    "value": "19-03-2018",
+    "confidence": 0.811,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "9.10",
+    "confidence": 0.874,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005711403.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.812,
+    "line_count": 26,
+    "word_count": 91
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Lot G01, KL Festival City,",
+    "confidence": 0.594,
+    "flag": true
+  },
+  "date": {
+    "value": "22/03/18",
+    "confidence": 0.808,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "4.15",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005605295.jpg",
+    "preprocessing": "raw_deskew",
+    "deskew_angle_deg": 1.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.694,
+    "line_count": 26,
+    "word_count": 105
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "1 er",
+    "confidence": 0.474,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005442376.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -9.25,
+    "ocr_psm": 11,
+    "ocr_confidence": 0.313,
+    "line_count": 26,
+    "word_count": 39
+  }
+}

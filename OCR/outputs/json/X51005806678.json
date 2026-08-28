@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "‘KAISON FURNISHING SDN BHD.",
+    "confidence": 0.777,
+    "flag": false
+  },
+  "date": {
+    "value": "2-01-18",
+    "confidence": 0.668,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "0.00",
+    "confidence": 0.406,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005806678.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.459,
+    "line_count": 28,
+    "word_count": 109
+  }
+}

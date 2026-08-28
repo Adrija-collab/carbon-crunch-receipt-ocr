@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "U 13/0 SETIn ALAM 40170",
+    "confidence": 0.553,
+    "flag": true
+  },
+  "date": {
+    "value": "12/28/2017",
+    "confidence": 0.863,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "1.00",
+    "confidence": 0.644,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005268400.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.464,
+    "line_count": 27,
+    "word_count": 103
+  }
+}

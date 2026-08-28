@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "RESTAURANT",
+    "confidence": 0.923,
+    "flag": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "269.40",
+    "confidence": 0.77,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005442322.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -0.45,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.43,
+    "line_count": 48,
+    "word_count": 181
+  }
+}

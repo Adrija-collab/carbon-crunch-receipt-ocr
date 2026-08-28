@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "MY HAPPY PHARMACY PLT",
+    "confidence": 0.922,
+    "flag": false
+  },
+  "date": {
+    "value": "01/02/2018",
+    "confidence": 0.895,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "20.50",
+    "confidence": 0.896,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005722668.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.726,
+    "line_count": 28,
+    "word_count": 114
+  }
+}

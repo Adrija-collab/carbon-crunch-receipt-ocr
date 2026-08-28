@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.92,
+    "flag": false
+  },
+  "date": {
+    "value": "26/04/2017",
+    "confidence": 0.602,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "7.20",
+    "confidence": 0.836,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005568887.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.707,
+    "line_count": 23,
+    "word_count": 101
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "TED HENG STATIONERY & BOOKS",
+    "confidence": 0.54,
+    "flag": true
+  },
+  "date": {
+    "value": "29/01/2018",
+    "confidence": 0.817,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "1.05",
+    "confidence": 0.884,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005361912.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 1.15,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.67,
+    "line_count": 30,
+    "word_count": 109
+  }
+}

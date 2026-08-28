@@ -1,0 +1,46 @@
+{
+  "store_name": {
+    "value": "BISTRO & CAFE",
+    "confidence": 0.896,
+    "flag": false
+  },
+  "date": {
+    "value": "12/03/2018",
+    "confidence": 0.848,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "1 HH GUINESS 12 GLASSES",
+      "price": "150.00",
+      "confidence": 0.706,
+      "flag": false
+    },
+    {
+      "name": "1 HH TIGER 12 GLASSES",
+      "price": "145.00",
+      "confidence": 0.693,
+      "flag": true
+    },
+    {
+      "name": "SR GS: 8%",
+      "price": "324.50",
+      "confidence": 0.487,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "343.00",
+    "confidence": 0.379,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005441401.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -0.42,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.744,
+    "line_count": 23,
+    "word_count": 83
+  }
+}

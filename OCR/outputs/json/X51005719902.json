@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "KING’S CONFECTIONERY S/B 273500-U (KSB)",
+    "confidence": 0.465,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "Due",
+      "price": "25.15",
+      "confidence": 0.649,
+      "flag": true
+    },
+    {
+      "name": "Pay",
+      "price": "25.15",
+      "confidence": 0.751,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": "0.00",
+    "confidence": 0.233,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005719902.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.734,
+    "line_count": 27,
+    "word_count": 125
+  }
+}

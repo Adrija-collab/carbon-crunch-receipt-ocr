@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Cash Sale",
+    "confidence": 0.643,
+    "flag": true
+  },
+  "date": {
+    "value": "06/02/2018",
+    "confidence": 0.937,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "350.00",
+    "confidence": 0.605,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005806702.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -1.01,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.79,
+    "line_count": 24,
+    "word_count": 82
+  }
+}

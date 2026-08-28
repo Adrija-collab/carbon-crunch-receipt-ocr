@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Elitetrax Harketing Sdn Bhd (616227-0)",
+    "confidence": 0.832,
+    "flag": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "60.00",
+    "confidence": 0.325,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005763940.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.716,
+    "line_count": 34,
+    "word_count": 144
+  }
+}

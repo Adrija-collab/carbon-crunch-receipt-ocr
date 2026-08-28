@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "HENG KEE DELIGHTS BAK KUT TEH.",
+    "confidence": 0.631,
+    "flag": true
+  },
+  "date": {
+    "value": "04/01/2018",
+    "confidence": 0.715,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "42.00",
+    "confidence": 0.899,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005719889.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.76,
+    "line_count": 36,
+    "word_count": 111
+  }
+}

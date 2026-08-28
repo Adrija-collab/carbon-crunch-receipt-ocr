@@ -1,0 +1,34 @@
+{
+  "store_name": {
+    "value": "CROss CHANNEL NETWoRk SDN. BHD.",
+    "confidence": 0.869,
+    "flag": false
+  },
+  "date": {
+    "value": "29/01/2018",
+    "confidence": 0.744,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "i ran fthae",
+      "price": "0.07",
+      "confidence": 0.393,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "6.36",
+    "confidence": 0.419,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005230648.jpg",
+    "preprocessing": "raw_deskew",
+    "deskew_angle_deg": -8.67,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.628,
+    "line_count": 24,
+    "word_count": 96
+  }
+}

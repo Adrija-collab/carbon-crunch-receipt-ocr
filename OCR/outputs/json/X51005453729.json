@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "- UAN HING STATIONERY SDN BHD",
+    "confidence": 0.774,
+    "flag": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "Durstile H399 (1149 x 95min) 100 sp",
+      "price": "58.30",
+      "confidence": 0.624,
+      "flag": true
+    },
+    {
+      "name": "809 Metal Name Badge Clip 1 sR",
+      "price": "21.20",
+      "confidence": 0.717,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": "101.00",
+    "confidence": 0.656,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005453729.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -6.98,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.625,
+    "line_count": 27,
+    "word_count": 119
+  }
+}

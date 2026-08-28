@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "AGA Ir",
+    "confidence": 0.382,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "89.00",
+    "confidence": 0.235,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005442333.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -9.99,
+    "ocr_psm": 11,
+    "ocr_confidence": 0.311,
+    "line_count": 36,
+    "word_count": 49
+  }
+}

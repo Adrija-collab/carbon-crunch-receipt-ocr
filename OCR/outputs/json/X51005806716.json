@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "ADVANCO COMPANY.",
+    "confidence": 0.622,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "7.00",
+    "confidence": 0.711,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005806716.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 1.58,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.724,
+    "line_count": 27,
+    "word_count": 106
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "store_name": {
+    "value": "KMF FOODICTOUS SON BHD (1132108-H)",
+    "confidence": 0.8,
+    "flag": false
+  },
+  "date": {
+    "value": "09-04-2018",
+    "confidence": 0.859,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "sushi",
+      "price": "1.80",
+      "confidence": 0.632,
+      "flag": true
+    },
+    {
+      "name": "Sushi",
+      "price": "2.60",
+      "confidence": 0.661,
+      "flag": true
+    },
+    {
+      "name": "R (EX) 28.28",
+      "price": "1.78",
+      "confidence": 0.353,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "31.00",
+    "confidence": 0.749,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005745296.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.662,
+    "line_count": 37,
+    "word_count": 133
+  }
+}

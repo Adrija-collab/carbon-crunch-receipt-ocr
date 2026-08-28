@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "SLF CASH & CARRY",
+    "confidence": 0.623,
+    "flag": true
+  },
+  "date": {
+    "value": "02/02/2018",
+    "confidence": 0.858,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "48100.00",
+    "confidence": 0.576,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005745188.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.624,
+    "line_count": 28,
+    "word_count": 92
+  }
+}

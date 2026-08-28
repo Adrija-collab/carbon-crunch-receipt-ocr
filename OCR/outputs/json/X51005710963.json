@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "TOTAL QUANTITY 1",
+    "confidence": 0.41,
+    "flag": true
+  },
+  "date": {
+    "value": "21/03/2018",
+    "confidence": 0.858,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "8199.60",
+    "confidence": 0.474,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005710963.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.497,
+    "line_count": 28,
+    "word_count": 86
+  }
+}

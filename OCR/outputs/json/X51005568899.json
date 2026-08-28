@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "MR. D.I.¥. SDN BHD",
+    "confidence": 0.864,
+    "flag": false
+  },
+  "date": {
+    "value": "18-10-17",
+    "confidence": 0.605,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "5.90",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005568899.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.809,
+    "line_count": 24,
+    "word_count": 92
+  }
+}

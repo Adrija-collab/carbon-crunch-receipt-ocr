@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Store No.: 129077 Babu",
+    "confidence": 0.697,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "6.00",
+    "confidence": 0.299,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005230605.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.496,
+    "line_count": 24,
+    "word_count": 112
+  }
+}

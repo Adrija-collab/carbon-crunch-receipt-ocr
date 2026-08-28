@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Walmart sic. —~ s",
+    "confidence": 0.634,
+    "flag": true
+  },
+  "date": {
+    "value": "10/16/21",
+    "confidence": 0.487,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "90.00",
+    "confidence": 0.333,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "19.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.378,
+    "line_count": 21,
+    "word_count": 119
+  }
+}

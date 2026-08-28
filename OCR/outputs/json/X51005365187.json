@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "F&P PHARMACY",
+    "confidence": 0.913,
+    "flag": false
+  },
+  "date": {
+    "value": "02/03/2018",
+    "confidence": 0.775,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "30.68",
+    "confidence": 0.759,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005365187.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -0.93,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.729,
+    "line_count": 41,
+    "word_count": 166
+  }
+}

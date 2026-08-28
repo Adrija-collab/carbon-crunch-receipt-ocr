@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "AEON CO. (M) BHD. (126926-H)",
+    "confidence": 0.881,
+    "flag": false
+  },
+  "date": {
+    "value": "22/03/2018",
+    "confidence": 0.755,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "5.90",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005605285.jpg",
+    "preprocessing": "raw_deskew",
+    "deskew_angle_deg": -1.11,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.806,
+    "line_count": 29,
+    "word_count": 109
+  }
+}

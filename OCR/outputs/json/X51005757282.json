@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "TSH ‘ROWER HARDWARE",
+    "confidence": 0.901,
+    "flag": false
+  },
+  "date": {
+    "value": "12/09/2017",
+    "confidence": 0.722,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "24.50",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005757282.jpg",
+    "preprocessing": "raw_deskew",
+    "deskew_angle_deg": -1.35,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.666,
+    "line_count": 32,
+    "word_count": 106
+  }
+}

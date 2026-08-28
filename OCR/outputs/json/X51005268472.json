@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "SIA MART",
+    "confidence": 0.908,
+    "flag": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "0.02",
+    "confidence": 0.357,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005268472.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.492,
+    "line_count": 47,
+    "word_count": 176
+  }
+}

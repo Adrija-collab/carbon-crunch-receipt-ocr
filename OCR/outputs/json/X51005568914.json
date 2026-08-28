@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "TKANO HANDEL SDN BHD",
+    "confidence": 0.813,
+    "flag": false
+  },
+  "date": {
+    "value": "09/08/17",
+    "confidence": 0.98,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "TEODORES CH * 90.00",
+      "price": "83.00",
+      "confidence": 0.556,
+      "flag": true
+    },
+    {
+      "name": "Ant, Excl. Sst i",
+      "price": "94.16",
+      "confidence": 0.548,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "99.80",
+    "confidence": 0.587,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005568914.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.585,
+    "line_count": 24,
+    "word_count": 88
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "store_name": {
+    "value": "fuardian Health And Beauty Sdn fiad",
+    "confidence": 0.538,
+    "flag": true
+  },
+  "date": {
+    "value": "09/03/18",
+    "confidence": 0.472,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "J2L040575. GON UR PLS 100420",
+      "price": "9.80",
+      "confidence": 0.362,
+      "flag": true
+    },
+    {
+      "name": "SINTOTAL",
+      "price": "9.50",
+      "confidence": 0.377,
+      "flag": true
+    },
+    {
+      "name": "CAGt",
+      "price": "10.00",
+      "confidence": 0.478,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005757233.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.595,
+    "line_count": 28,
+    "word_count": 104
+  }
+}

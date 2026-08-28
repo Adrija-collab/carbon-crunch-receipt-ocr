@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "SEK U3, 40150 SHAH ALAM, SELANGOH",
+    "confidence": 0.564,
+    "flag": true
+  },
+  "date": {
+    "value": "25-01-2018",
+    "confidence": 0.793,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "205.50",
+    "confidence": 0.589,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005764154.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.697,
+    "line_count": 28,
+    "word_count": 118
+  }
+}

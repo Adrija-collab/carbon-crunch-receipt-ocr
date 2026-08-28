@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "CPI ROCKU SDN. BHD. (1096317-P)",
+    "confidence": 0.88,
+    "flag": false
+  },
+  "date": {
+    "value": "19/02/2018",
+    "confidence": 0.746,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "SUBTTL",
+      "price": "185.70",
+      "confidence": 0.69,
+      "flag": true
+    },
+    {
+      "name": "10% SVC CHG",
+      "price": "18.57",
+      "confidence": 0.691,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "181.55",
+    "confidence": 0.931,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005719855.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.806,
+    "line_count": 29,
+    "word_count": 103
+  }
+}

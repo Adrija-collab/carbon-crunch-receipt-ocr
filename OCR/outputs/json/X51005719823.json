@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "AA PHARMACY",
+    "confidence": 0.908,
+    "flag": false
+  },
+  "date": {
+    "value": "29/01/2018",
+    "confidence": 0.915,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "46.20",
+    "confidence": 0.761,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005719823.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.732,
+    "line_count": 36,
+    "word_count": 121
+  }
+}

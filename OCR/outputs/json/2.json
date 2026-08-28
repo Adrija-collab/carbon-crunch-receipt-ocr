@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "== Give us feedback @ survey.walmart.com oe",
+    "confidence": 0.794,
+    "flag": false
+  },
+  "date": {
+    "value": "10/18/20",
+    "confidence": 0.534,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "49.90",
+    "confidence": 0.618,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "2.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.533,
+    "line_count": 30,
+    "word_count": 159
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "KHE ELECTRICAL. TRADING",
+    "confidence": 0.902,
+    "flag": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "101.75",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005715456.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.671,
+    "line_count": 31,
+    "word_count": 116
+  }
+}

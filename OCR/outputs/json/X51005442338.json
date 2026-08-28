@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "MOAT stn sexe",
+    "confidence": 0.396,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005442338.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -10.55,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.269,
+    "line_count": 25,
+    "word_count": 73
+  }
+}

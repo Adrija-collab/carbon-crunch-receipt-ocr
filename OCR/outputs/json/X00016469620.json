@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "MR O.1.¥. (JOHOR) SDN BHD",
+    "confidence": 0.818,
+    "flag": false
+  },
+  "date": {
+    "value": "12-01-19",
+    "confidence": 0.662,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "33.92",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X00016469620.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 2.31,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.774,
+    "line_count": 33,
+    "word_count": 125
+  }
+}

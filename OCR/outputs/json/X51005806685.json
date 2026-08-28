@@ -1,0 +1,34 @@
+{
+  "store_name": {
+    "value": "Wangsa Link, Wangsa Maju,",
+    "confidence": 0.62,
+    "flag": true
+  },
+  "date": {
+    "value": "17/01/2018",
+    "confidence": 0.736,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "Ris | Siypee Re rotaliee se",
+      "price": "29.00",
+      "confidence": 0.367,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "21.00",
+    "confidence": 0.374,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005806685.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -2.37,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.709,
+    "line_count": 25,
+    "word_count": 99
+  }
+}

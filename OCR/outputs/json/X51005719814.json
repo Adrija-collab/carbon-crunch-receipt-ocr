@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "KIKU JAPANESE RESTAURANT",
+    "confidence": 0.918,
+    "flag": false
+  },
+  "date": {
+    "value": "17/1/2018",
+    "confidence": 0.961,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "BENO2 1 12.90 0.00",
+      "price": "12.90",
+      "confidence": 0.711,
+      "flag": false
+    },
+    {
+      "name": "Set10 1 6.90 0.00",
+      "price": "6.90",
+      "confidence": 0.705,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": "29.70",
+    "confidence": 0.782,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005719814.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.817,
+    "line_count": 23,
+    "word_count": 97
+  }
+}

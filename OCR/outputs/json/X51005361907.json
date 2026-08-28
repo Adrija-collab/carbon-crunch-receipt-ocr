@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "CASH",
+    "confidence": 0.637,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "3.35",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005361907.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.456,
+    "line_count": 38,
+    "word_count": 149
+  }
+}

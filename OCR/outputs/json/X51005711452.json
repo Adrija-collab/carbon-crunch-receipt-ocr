@@ -1,0 +1,46 @@
+{
+  "store_name": {
+    "value": "Gerbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.912,
+    "flag": false
+  },
+  "date": {
+    "value": "21/03/2018",
+    "confidence": 0.85,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "1M McChicken",
+      "price": "9.50",
+      "confidence": 0.759,
+      "flag": false
+    },
+    {
+      "name": "1 McChicken",
+      "price": "5.00",
+      "confidence": 0.798,
+      "flag": false
+    },
+    {
+      "name": "1 SNuggets",
+      "price": "10.90",
+      "confidence": 0.775,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": "25.40",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005711452.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.849,
+    "line_count": 29,
+    "word_count": 107
+  }
+}

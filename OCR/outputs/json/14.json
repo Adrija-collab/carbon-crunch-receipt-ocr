@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Lg Save money. Live better. < rf",
+    "confidence": 0.468,
+    "flag": true
+  },
+  "date": {
+    "value": "05/04/17",
+    "confidence": 0.371,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "26.00",
+    "confidence": 0.53,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "14.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.5,
+    "line_count": 26,
+    "word_count": 190
+  }
+}

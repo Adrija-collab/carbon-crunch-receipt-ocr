@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "tan woon yann",
+    "confidence": 0.625,
+    "flag": true
+  },
+  "date": {
+    "value": "19/10/2018",
+    "confidence": 0.736,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "60.31",
+    "confidence": 0.775,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X00016469619.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.715,
+    "line_count": 26,
+    "word_count": 99
+  }
+}

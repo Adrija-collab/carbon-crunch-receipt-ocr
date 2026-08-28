@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "fon",
+    "confidence": 0.414,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005442382.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -9.31,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.294,
+    "line_count": 16,
+    "word_count": 25
+  }
+}

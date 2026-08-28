@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": ". ZNWTAJAYA FOOD N BEVERAGE SON BHD",
+    "confidence": 0.767,
+    "flag": false
+  },
+  "date": {
+    "value": "21-03-2018",
+    "confidence": 0.847,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "48.15",
+    "confidence": 0.676,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005663298.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.644,
+    "line_count": 37,
+    "word_count": 135
+  }
+}

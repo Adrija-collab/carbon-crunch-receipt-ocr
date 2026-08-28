@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "G-i9 Level 6",
+    "confidence": 0.506,
+    "flag": true
+  },
+  "date": {
+    "value": "04/03/18",
+    "confidence": 0.352,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "22.00",
+    "confidence": 0.67,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005719912.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.579,
+    "line_count": 30,
+    "word_count": 138
+  }
+}

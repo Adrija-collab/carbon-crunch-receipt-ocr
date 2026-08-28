@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Super Terminal Sdn Bhd",
+    "confidence": 0.912,
+    "flag": false
+  },
+  "date": {
+    "value": "20/01/2018",
+    "confidence": 0.688,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "132.50",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005675099.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.753,
+    "line_count": 31,
+    "word_count": 121
+  }
+}

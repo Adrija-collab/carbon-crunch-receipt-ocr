@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "(Co. No. 113825-W)",
+    "confidence": 0.902,
+    "flag": false
+  },
+  "date": {
+    "value": "29/03/18",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "9.65",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005605334.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.887,
+    "line_count": 26,
+    "word_count": 108
+  }
+}

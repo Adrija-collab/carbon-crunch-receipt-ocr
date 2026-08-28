@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "MR. D.1.Y. (HM) SDN BHD",
+    "confidence": 0.749,
+    "flag": false
+  },
+  "date": {
+    "value": "23-03-18",
+    "confidence": 0.58,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": "6.20",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005757342.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 0.53,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.738,
+    "line_count": 29,
+    "word_count": 120
+  }
+}

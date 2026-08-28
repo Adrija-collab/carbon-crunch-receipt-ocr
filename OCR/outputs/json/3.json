@@ -1,0 +1,34 @@
+{
+  "store_name": {
+    "value": "‘ Walmart >,<",
+    "confidence": 0.744,
+    "flag": false
+  },
+  "date": {
+    "value": "04/27/19",
+    "confidence": 0.746,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "WAS 4.54 YOU SAVED",
+      "price": "0.64",
+      "confidence": 0.759,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": "160.00",
+    "confidence": 0.36,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "3.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.642,
+    "line_count": 42,
+    "word_count": 198
+  }
+}

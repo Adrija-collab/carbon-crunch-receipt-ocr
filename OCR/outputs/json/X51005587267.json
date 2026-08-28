@@ -1,0 +1,46 @@
+{
+  "store_name": {
+    "value": "TRE SHAAS $0 BHD (728515-H)",
+    "confidence": 0.815,
+    "flag": false
+  },
+  "date": {
+    "value": "4/02/2017",
+    "confidence": 0.82,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "7a0r06c61i206 10 1.00",
+      "price": "10.00",
+      "confidence": 0.298,
+      "flag": true
+    },
+    {
+      "name": "SASSOSQM01I95 = 3+ 14,90",
+      "price": "44.70",
+      "confidence": 0.366,
+      "flag": true
+    },
+    {
+      "name": "ash Se",
+      "price": "100.10",
+      "confidence": 0.52,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "0.10",
+    "confidence": 0.393,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005587267.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.562,
+    "line_count": 44,
+    "word_count": 205
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "store_name": {
+    "value": "PETRODELI ENTERPRISE",
+    "confidence": 0.755,
+    "flag": false
+  },
+  "date": {
+    "value": "26/02/18",
+    "confidence": 0.822,
+    "flag": false
+  },
+  "items": [
+    {
+      "name": "Visa",
+      "price": "85.54",
+      "confidence": 0.715,
+      "flag": false
+    }
+  ],
+  "total_amount": {
+    "value": "85.64",
+    "confidence": 0.892,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005447832.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.807,
+    "line_count": 28,
+    "word_count": 97
+  }
+}

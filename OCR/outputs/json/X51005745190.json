@@ -1,0 +1,64 @@
+{
+  "store_name": {
+    "value": "SUPER SEVEN CASH & CARRY SON 3HD",
+    "confidence": 0.561,
+    "flag": true
+  },
+  "date": {
+    "value": "12-02-2018",
+    "confidence": 0.634,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "LORY FLITUET 3000P(3)6KE",
+      "price": "663.00",
+      "confidence": 0.585,
+      "flag": true
+    },
+    {
+      "name": "ERE GIRI-BIRI 10KG SX ISTIMEWA",
+      "price": "653.50",
+      "confidence": 0.525,
+      "flag": true
+    },
+    {
+      "name": "AWGHG BESAR INOTA/CINA GUNT",
+      "price": "8.50",
+      "confidence": 0.455,
+      "flag": true
+    },
+    {
+      "name": "gatas CTU IKG",
+      "price": "19.50",
+      "confidence": 0.414,
+      "flag": true
+    },
+    {
+      "name": "SAGAS KART DAGING IKG",
+      "price": "17.20",
+      "confidence": 0.525,
+      "flag": true
+    },
+    {
+      "name": "CULT BOM 3KG KCK",
+      "price": "67.90",
+      "confidence": 0.542,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "359.20",
+    "confidence": 0.181,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005745190.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.534,
+    "line_count": 43,
+    "word_count": 178
+  }
+}

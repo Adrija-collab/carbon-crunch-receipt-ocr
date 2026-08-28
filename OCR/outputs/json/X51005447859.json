@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "SDN BHD",
+    "confidence": 0.61,
+    "flag": true
+  },
+  "date": {
+    "value": "14/02/2018",
+    "confidence": 0.824,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "1.45",
+    "confidence": 0.72,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005447859.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.832,
+    "line_count": 26,
+    "word_count": 100
+  }
+}

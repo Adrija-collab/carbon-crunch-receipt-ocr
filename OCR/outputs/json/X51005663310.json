@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "LIM SENG THO HARDWARE FRADING",
+    "confidence": 0.787,
+    "flag": false
+  },
+  "date": {
+    "value": "09/02/2018",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "12.00",
+    "confidence": 0.614,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005663310.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.758,
+    "line_count": 28,
+    "word_count": 107
+  }
+}

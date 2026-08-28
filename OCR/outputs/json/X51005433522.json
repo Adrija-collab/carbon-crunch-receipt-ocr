@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "UNIHAKKA INTERNATIONAL SON BHD",
+    "confidence": 0.802,
+    "flag": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "Teal Amour",
+      "price": "820.00",
+      "confidence": 0.392,
+      "flag": true
+    },
+    {
+      "name": "eek",
+      "price": "8.20",
+      "confidence": 0.307,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005433522.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 11,
+    "ocr_confidence": 0.272,
+    "line_count": 38,
+    "word_count": 65
+  }
+}

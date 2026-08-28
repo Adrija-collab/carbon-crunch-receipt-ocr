@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "BE A POPULAR CARD MEMBER",
+    "confidence": 0.7,
+    "flag": false
+  },
+  "date": {
+    "value": "31/08/20",
+    "confidence": 0.864,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "5.05",
+    "confidence": 1.0,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005568866.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.807,
+    "line_count": 34,
+    "word_count": 132
+  }
+}

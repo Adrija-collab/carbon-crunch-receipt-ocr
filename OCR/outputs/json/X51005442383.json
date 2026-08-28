@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "CARREFOUR Regr, rAuRANe",
+    "confidence": 0.405,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "ae i",
+      "price": "13.00",
+      "confidence": 0.4,
+      "flag": true
+    },
+    {
+      "name": "sunt",
+      "price": "0.75",
+      "confidence": 0.339,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "13.00",
+    "confidence": 0.301,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005442383.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": -7.26,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.29,
+    "line_count": 21,
+    "word_count": 50
+  }
+}

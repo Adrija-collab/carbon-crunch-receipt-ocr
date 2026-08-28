@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "Walmart eis Z",
+    "confidence": 0.699,
+    "flag": true
+  },
+  "date": {
+    "value": "10/31/21",
+    "confidence": 0.595,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "PRE ays MYCE 003120001605 F",
+      "price": "1.58",
+      "confidence": 0.319,
+      "flag": true
+    },
+    {
+      "name": "AX 1 7.000 x",
+      "price": "3.60",
+      "confidence": 0.458,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "86.35",
+    "confidence": 0.293,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "18.jpg",
+    "preprocessing": "raw",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.566,
+    "line_count": 31,
+    "word_count": 135
+  }
+}

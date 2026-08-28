@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": "Zen and coffee 28 S/B",
+    "confidence": 0.916,
+    "flag": false
+  },
+  "date": {
+    "value": "25 Mar 2018",
+    "confidence": 0.96,
+    "flag": false
+  },
+  "items": [],
+  "total_amount": {
+    "value": "105.00",
+    "confidence": 0.764,
+    "flag": false
+  },
+  "_meta": {
+    "file_name": "X51005719906.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.794,
+    "line_count": 34,
+    "word_count": 122
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "store_name": {
+    "value": "KEDAI PAPAN YEW CHUAN",
+    "confidence": 0.627,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [
+    {
+      "name": "re} SR 6 86.00",
+      "price": "5.16",
+      "confidence": 0.534,
+      "flag": true
+    }
+  ],
+  "total_amount": {
+    "value": "91.16",
+    "confidence": 0.558,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005724622.jpg",
+    "preprocessing": "clahe",
+    "deskew_angle_deg": 0.0,
+    "ocr_psm": 6,
+    "ocr_confidence": 0.734,
+    "line_count": 36,
+    "word_count": 136
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "store_name": {
+    "value": ";ERNATIONAL SON BHO",
+    "confidence": 0.477,
+    "flag": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "flag": true
+  },
+  "_meta": {
+    "file_name": "X51005433538.jpg",
+    "preprocessing": "clahe_deskew",
+    "deskew_angle_deg": 3.15,
+    "ocr_psm": 11,
+    "ocr_confidence": 0.261,
+    "line_count": 28,
+    "word_count": 49
+  }
+}
